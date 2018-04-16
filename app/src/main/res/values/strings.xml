@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServerCheck</string>
+    <string name="txtnum">Numero :</string>
+    <string name="Temp">Température (°C): </string>
+    <string name="valtemp">20</string>
+    <string name="tel">0651178767</string>
+    <string name="envoyer">Modifier Num</string>
+</resources>
+
